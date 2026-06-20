@@ -6,7 +6,7 @@
 # PLUGINS
 
 [![FolderStructure](https://img.shields.io/badge/-FolderStructure-0072B1?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=kspavankumar.project-structure-explorer)
-[![DiffEngine](https://img.shields.io/badge/-DiffEngine-8E44AD?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://your-link-2.com)
+
 <!-- [![Plugin 3](https://img.shields.io/badge/-Plugin_3-FF5722?style=for-the-badge&logo=code&logoColor=white)](https://your-link-3.com)
 [![Plugin 4](https://img.shields.io/badge/-Plugin_4-009688?style=for-the-badge&logo=tools&logoColor=white)](https://your-link-4.com)
 [![Plugin 5](https://img.shields.io/badge/-Plugin_5-FFC107?style=for-the-badge&logo=javascript&logoColor=black)](https://your-link-5.com)
