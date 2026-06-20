@@ -9,8 +9,9 @@
 
 # BROWSER EXTENSIONS
 
-[![Currency Glance](https://img.shields.io/badge/-Currency_Glance-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](...)
-[![Linkedin Formattor](https://img.shields.io/badge/-Linkedin Formattor-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](...)
+[![Currency Glance](https://img.shields.io/badge/-Currency_Glance-34A853?style=for-the-badge&logo=googlechrome&logoColor=white)](CHROME_STORE_URL)
+
+[![LinkedIn Formatter](https://img.shields.io/badge/-LinkedIn_Formatter-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](CHROME_STORE_URL)
 
 
 
