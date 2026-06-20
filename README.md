@@ -10,7 +10,7 @@
 # BROWSER EXTENSIONS
 
 [![Currency Glance](https://img.shields.io/badge/-Currency_Glance-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](...)
-[![Linkedin Formattor](https://img.shields.io/badge/-Tab_Manager-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](...)
+[![Linkedin Formattor](https://img.shields.io/badge/-Linkedin Formattor-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](...)
 
 
 
